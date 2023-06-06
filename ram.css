@@ -1,0 +1,119 @@
+.bg_color{
+    background-color:grey;
+    background-size:cover;
+   padding:10px;
+}
+.bg_color1{
+    background-color:#c0d1c5;
+    border-radius:25px;
+    box-shadow:0px 0px 20px crimson;
+    display:flex;
+    flex-direction:row;
+}
+
+.h1_element{
+    font-weight:bold;
+    font-size:30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.p_element{
+    font-family:'Times New Roman', Times, serif;
+    font-size:17px;
+}
+img{
+    margin:10px;
+    height:360px;
+    width:300px;
+}
+li{
+    font-style:oblique;
+    margin-bottom:5px;
+    font-size:20px;
+    color:#1a25ed;
+}
+span{
+   font-size:23px;
+    color:#095716;
+}
+.list_align{
+    margin-left:18%;
+}
+h2{
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.image_logo{
+    height:150px;
+    width:280px;
+    margin:10px;
+    border:2px solid rgba(128, 98, 0, 0.788);
+}
+.bg_logo_color{
+    background-color:rgba(12, 2, 2, 0.815);
+    width: 300px;
+    border:2px solid green;
+    text-align:center;
+    margin:20px;
+    margin-left:7%;
+    border-radius:20px;
+}
+.cast{
+    display:flex;
+    flex-direction: row;
+    overflow:hidden;
+}
+.p_logo{
+    font-size:17px;
+    border-radius:10px;
+    color:white;
+    margin-top:0px;
+}
+.h1_head{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom:0px;
+}
+.main_head{
+    font-family:"monoton";
+    text-align:center;
+    color:rgb(94, 17, 17);
+}
+.main_span{
+    font-size: 20px;
+    font-style: italic;
+    font-weight:100;
+    color:aquamarine;
+    
+}
+.story_line{
+    background-color:blueviolet;
+    border-radius:20px;
+    padding:14px;
+    color:white;
+}
+.story_line:hover{
+    background-color:cornflowerblue;
+    color:black;
+    border-radius:25px;
+}
+.story_img{
+    float:right;
+    right:0px;
+    padding:10px;
+}
+body{
+    background-color:rgb(8, 8, 8);
+}
+.back{
+    border:2px solid green;
+    padding:13px;
+    border-radius:25px;
+    font-weight:bold;
+    background-color:burlywood;
+    text-decoration:none;
+    color:#095716;
+}
+.link_back_con{
+    margin:auto;
+    margin-top:20px;
+}
